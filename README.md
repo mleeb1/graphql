@@ -13,7 +13,7 @@ Then run: Update-Database (select "A" for All if prompted). This will run the DB
 
 ## Debugging / Running the sample GraphQL query
 
-Hit F5 to run and then enter this query (JSON) and hit the run / play icon in UI Playground when it loads to select all Owners and their policies:
+Hit F5 to run and go to https://localhost:5001/ui/playground. Then enter the query (JSON) below and hit the run / play icon in UI Playground when it loads to select all Owners and their policies:
 
 {
   owners {

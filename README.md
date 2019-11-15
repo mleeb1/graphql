@@ -9,7 +9,7 @@ https://app.pluralsight.com/library/courses/building-graphql-apis-aspdotnet-core
 ## Setup
 
 To setup the Database, go to: (in VS, Menu) Toools --> NuGet Package Manager --> Package Manager Console
-Then run: Update-Database (select "A" for All if prompted). This will setup the local SQL DB.
+Then run: Update-Database (select "A" for All if prompted). This will run the DB migrations and setup the local SQL DB.
 
 ## Debugging / Running the sample GraphQL query
 
